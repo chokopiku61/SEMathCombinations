@@ -1,0 +1,14 @@
+C:\Users\brobr\Documents\GitHub\SEMathCombinations\MathematicalCombinations\MathematicalCombinations\bin\Debug\net8.0\MathematicalCombinations.exe
+C:\Users\brobr\Documents\GitHub\SEMathCombinations\MathematicalCombinations\MathematicalCombinations\bin\Debug\net8.0\MathematicalCombinations.deps.json
+C:\Users\brobr\Documents\GitHub\SEMathCombinations\MathematicalCombinations\MathematicalCombinations\bin\Debug\net8.0\MathematicalCombinations.runtimeconfig.json
+C:\Users\brobr\Documents\GitHub\SEMathCombinations\MathematicalCombinations\MathematicalCombinations\bin\Debug\net8.0\MathematicalCombinations.dll
+C:\Users\brobr\Documents\GitHub\SEMathCombinations\MathematicalCombinations\MathematicalCombinations\bin\Debug\net8.0\MathematicalCombinations.pdb
+C:\Users\brobr\Documents\GitHub\SEMathCombinations\MathematicalCombinations\MathematicalCombinations\obj\Debug\net8.0\MathematicalCombinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brobr\Documents\GitHub\SEMathCombinations\MathematicalCombinations\MathematicalCombinations\obj\Debug\net8.0\MathematicalCombinations.AssemblyInfoInputs.cache
+C:\Users\brobr\Documents\GitHub\SEMathCombinations\MathematicalCombinations\MathematicalCombinations\obj\Debug\net8.0\MathematicalCombinations.AssemblyInfo.cs
+C:\Users\brobr\Documents\GitHub\SEMathCombinations\MathematicalCombinations\MathematicalCombinations\obj\Debug\net8.0\MathematicalCombinations.csproj.CoreCompileInputs.cache
+C:\Users\brobr\Documents\GitHub\SEMathCombinations\MathematicalCombinations\MathematicalCombinations\obj\Debug\net8.0\MathematicalCombinations.dll
+C:\Users\brobr\Documents\GitHub\SEMathCombinations\MathematicalCombinations\MathematicalCombinations\obj\Debug\net8.0\refint\MathematicalCombinations.dll
+C:\Users\brobr\Documents\GitHub\SEMathCombinations\MathematicalCombinations\MathematicalCombinations\obj\Debug\net8.0\MathematicalCombinations.pdb
+C:\Users\brobr\Documents\GitHub\SEMathCombinations\MathematicalCombinations\MathematicalCombinations\obj\Debug\net8.0\MathematicalCombinations.genruntimeconfig.cache
+C:\Users\brobr\Documents\GitHub\SEMathCombinations\MathematicalCombinations\MathematicalCombinations\obj\Debug\net8.0\ref\MathematicalCombinations.dll
